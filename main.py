@@ -4,7 +4,6 @@
 from requests import *
 from bs4 import BeautifulSoup
 from tkinter import *
-import json
 
 programWindow = Tk()
 programWindow.title("City Temprature App, By Yara")
